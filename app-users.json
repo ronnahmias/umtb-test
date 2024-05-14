@@ -1,0 +1,23 @@
+[
+  {
+    "email": "Nathan@yesenia.net",
+    "userCode": 3,
+    "displayName": "Clementine Bauch",
+    "company": "Romaguera-Jacobson",
+    "address": "McKenziehaven, Douglas Extension"
+  },
+  {
+    "email": "Lucio_Hettinger@annie.ca",
+    "userCode": 5,
+    "displayName": "Chelsey Dietrich",
+    "company": "Keebler LLC",
+    "address": "Roscoeview, Skiles Walks"
+  },
+  {
+    "email": "Rey.Padberg@karina.biz",
+    "userCode": 10,
+    "displayName": "Clementina DuBuque",
+    "company": "Hoeger LLC",
+    "address": "Lebsackbury, Kattie Turnpike"
+  }
+]
